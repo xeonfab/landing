@@ -1,0 +1,26 @@
+
+.banner {
+background-image: url(../../images/background.png);
+background-size: cover;
+background-position: center;
+padding: 200px 0;
+}
+
+.banner-info {
+margin: auto;
+width: 900px;
+
+}
+
+.banner-info h1 {
+color: white;
+
+}
+
+.banner-info p {
+  color: white;
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+  margin-bottom: 60px;
+}
